@@ -13,3 +13,8 @@
 | Шмелев Алексей |Plasmodium (chabaudi, fragile, gallinaceum, coatneyi, malariae)| https://github.com/alexeyshmelev/hse22_project |
 | Жукова Юлия  | Eimeria   (brunetti,  tenella, maxima, acervulina, necatrix)    | https://github.com/ZhukovaJul/hse22_project.git |
 | Смирнов Георгий  |Toxoplasma, Plasmodium(sp. gorilla clade G2, cynomolgi strain B, vinckei, inui San Antonio 1) | пока нет |
+
+<h3> Ссылки </h3>
+ 
+ **Ппрезентация:** <br> 
+ **Статистика по всем кластерам:**

@@ -9,7 +9,7 @@
 | Марусев Егор  | Cryptosporidium    | https://github.com/egormarusev/hse22_project_bio.git |
 | Галкина Мария  | Babesia| https://github.com/galkinamariia/hse22_project |
 | Пирожкина Мария  |Porospora, Gregarina niphandrodes, Nephromyces, Haemoproteus  | https://github.com/Pirozhok1967/hse22_project |
-| Тарасова Мария  |Plasmodium( relictum, reichenowi, berghei ANKA), Besnoitia, Neospora   | пока нет |
+| Тарасова Мария  |Plasmodium( relictum, reichenowi, berghei ANKA), Besnoitia, Neospora   | https://github.com/MariaTar7/hse22_project/ |
 | Шмелев Алексей |Plasmodium (chabaudi, fragile, gallinaceum, coatneyi, malariae)| https://github.com/alexeyshmelev/hse22_project |
 | Жукова Юлия  | Eimeria   (brunetti,  tenella, maxima, acervulina, necatrix)    | https://github.com/ZhukovaJul/hse22_project.git |
 | Смирнов Георгий  |Toxoplasma, Plasmodium(sp. gorilla clade G2, cynomolgi strain B, vinckei, inui San Antonio 1) | пока нет |

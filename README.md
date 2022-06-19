@@ -17,7 +17,7 @@
 <h3> Ссылки </h3>
  
 Взятые виды:
-* *Plasmodium*
+##### *Plasmodium*
  * *falciparum*
  * *vivax*
  * *gaboni*
@@ -35,7 +35,7 @@
  * *sp. gorilla clade G2*
  * *inui San Antonio 1*
  * *cynomolgi strain B*
-* *Eimeria*
+##### *Eimeria*
  * *mitis*
  * *necatrix*
  * *praecox*
@@ -43,33 +43,33 @@
  * *acervulina*
  * *brunetti*
  * *tenella*
-* *Theileria*
+##### *Theileria*
  * *annulata*
  * *equi strain WA*
  * *orientalis strain Shintoku*
  * *parva strain Muguga*
-* *Babesia*
+##### *Babesia*
  * *bovis T2Bo*
  * *microti strain RI*
  * *bigemina*
  * *sp. Xinjiang*
  * *ovata*
-* *Cryptosporidium*
+##### *Cryptosporidium*
  * *parvum Iowa II*
  * *hominis TU502*
  * *muris RN66*
  * *ubiquitum*
  * *felis*
-* *Gregarina*
+##### *Gregarina*
  * *niphandrodes*
-* *Porospora*
+##### *Porospora*
  * *cf. gigantea A*
  * *cf. gigantea B*
-* *Besnoitia*
+##### *Besnoitia*
  * *besnoiti*
-* *Neospora*
+##### *Neospora*
  * *caninum Liverpool*
-* *Toxoplasma*
+##### *Toxoplasma*
  * *gondii ME49*
 
 

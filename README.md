@@ -79,7 +79,7 @@
 Для дополнения таблицы статистикой был использован скрипт на python (файл group_clusters.py, папка src)
 Всего было построено 26462 кластера. Их распределение представлено на двух картинках ниже.
 Распеределение числа геномов, содержащих белки в кластере (количество ортологов):
-![gcf_gca_44_clust_by_number_of_genoms](https://user-images.githubusercontent.com/60808642/174497012-d7e36a00-b142-482b-9617-d055a3964aa4.png)
+![gcf_gca_44_clust_by_number_of_genoms](https://user-images.githubusercontent.com/60808642/174497142-7afd4c5f-5239-4322-ba56-fbc879cc2ae9.png)
 
 Распределение числа белков на кластер (с учетом числа паралогов внутри каждого вида):
 ![gcf_gca_44_clust_by_number_of_proteins](https://user-images.githubusercontent.com/60808642/174497029-1004d50f-6a03-4200-b6c4-a88ddbb0a272.png)

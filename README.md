@@ -16,8 +16,62 @@
 
 <h3> Ссылки </h3>
  
- **Ппрезентация:** <br> 
- **Статистика по всем кластерам:**
+Взятые виды:
+* *Plasmodium*
+ * *falciparum*
+ * *vivax*
+ * *gaboni*
+ * *knowlesi*
+ * *yoelii*
+ * *relictum*
+ * *reichenowi*
+ * *berghei ANKA*
+ * *chabaudi*
+ * *fragile*
+ * *gallinaceum*
+ * *coatneyi*
+ * *malariae*
+ * *vinckei*
+ * *sp. gorilla clade G2*
+ * *inui San Antonio 1*
+ * *cynomolgi strain B*
+* *Eimeria*
+ * *mitis*
+ * *necatrix*
+ * *praecox*
+ * *maxima*
+ * *acervulina*
+ * *brunetti*
+ * *tenella*
+* *Theileria*
+ * *annulata*
+ * *equi strain WA*
+ * *orientalis strain Shintoku*
+ * *parva strain Muguga*
+* *Babesia*
+ * *bovis T2Bo*
+ * *microti strain RI*
+ * *bigemina*
+ * *sp. Xinjiang*
+ * *ovata*
+* *Cryptosporidium*
+ * *parvum Iowa II*
+ * *hominis TU502*
+ * *muris RN66*
+ * *ubiquitum*
+ * *felis*
+* *Gregarina*
+ * *niphandrodes*
+* *Porospora*
+ * *cf. gigantea A*
+ * *cf. gigantea B*
+* *Besnoitia*
+ * *besnoiti*
+* *Neospora*
+ * *caninum Liverpool*
+* *Toxoplasma*
+ * *gondii ME49*
+
 
 <h3> Создание ортологичных кластеров внутри таксона </h3> 
 

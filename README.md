@@ -114,7 +114,7 @@
 
 <h3> Функции велков в кластерах </h3> 
 
-|    | function                                                                 |
+|  Номер кластера  | Функция                                                    |
 |---:|:-------------------------------------------------------------------------|
 |  0 | 40S ribosomal protein S7, putative                                       |
 |  1 | S-adenosylmethionine synthetase, putative                                |

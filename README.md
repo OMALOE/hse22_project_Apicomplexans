@@ -408,3 +408,35 @@ DCLLKIVAENFDFRPGVIQRDLRLKEPIFKELAAYGHFGRSPEKFAWEKPRDLSHCKKI-----------------NN
 
   ```
 </details>
+
+<h3> Квадруплексы </h3>
+
+Для поиска квадруплексов был использован pqsfinder (папка src, group.Rmp).
+Надо отметить, что участки квадруплексов не пересекались, поэтому bedtools merge для них не применялся. Bedtools Intersect применялся с полученными ранее tss файлами. Топ 20 кластеров были выбраны среди кластеров, содержащих белки для не менее, чем 30 видов и были отсортированы по среднему score (включая нулевые значения).
+
+Тепловая карта данных кластеров представлена ниже:
+
+![q_clusters](https://user-images.githubusercontent.com/60808642/174879802-a443d80d-0c6a-4264-bc46-d173620fa080.jpg)
+
+|    | function                                               |
+|---:|:-------------------------------------------------------|
+|  0 | conserved protein, unknown function                    |
+|  1 | hypothetical protein, conserved                        |
+|  2 | ubiquinone biosynthesis protein COQ4, putative         |
+|  3 | EH protein, putative                                   |
+|  4 | hypothetical protein, conserved                        |
+|  5 | exosome complex component CSL4, putative               |
+|  6 | cysteine-rich PDZ-binding protein, putative            |
+|  7 | DNA-directed RNA polymerase III subunit RPC8, putative |
+|  8 | RNA-binding protein, putative                          |
+|  9 | cell division cycle protein 20 homolog, putative       |
+| 10 | hypothetical protein, conserved                        |
+| 11 | transcription factor with AP2 domain(s), putative      |
+| 12 | conserved Plasmodium protein, unknown function         |
+| 13 | hypothetical protein, conserved                        |
+| 14 | mitochondrial fission 1 protein, putative              |
+| 15 | 4-nitrophenylphosphatase, putative                     |
+| 16 | mRNA methyltransferase, putative                       |
+| 17 | OTU domain-containing protein, putative                |
+| 18 | zinc finger, RAN binding protein, putative             |
+| 19 | DNA-directed RNA polymerase, alpha subunit, putative   |

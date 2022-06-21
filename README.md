@@ -412,6 +412,7 @@ DCLLKIVAENFDFRPGVIQRDLRLKEPIFKELAAYGHFGRSPEKFAWEKPRDLSHCKKI-----------------NN
 </details>
 
 <details><summary>Нуклеотидное выравнивание для кластера 0</summary>
+  
   ```
   >ORM39934.1
 AAATCAAC-CA-TC--T-AA--------------T---------T-----------------------T-----CACAT-

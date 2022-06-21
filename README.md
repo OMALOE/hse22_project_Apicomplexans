@@ -418,7 +418,10 @@ DCLLKIVAENFDFRPGVIQRDLRLKEPIFKELAAYGHFGRSPEKFAWEKPRDLSHCKKI-----------------NN
 
 ![q_clusters](https://user-images.githubusercontent.com/60808642/174879802-a443d80d-0c6a-4264-bc46-d173620fa080.jpg)
 
-|    | function                                               |
+Функции белков, представленных в кластере, взяты как самые популярные среди описаний этих 44 белков.
+Они представлены ниже.
+
+|  Номер кластера | Функция                                               |
 |---:|:-------------------------------------------------------|
 |  0 | conserved protein, unknown function                    |
 |  1 | hypothetical protein, conserved                        |
@@ -440,3 +443,5 @@ DCLLKIVAENFDFRPGVIQRDLRLKEPIFKELAAYGHFGRSPEKFAWEKPRDLSHCKKI-----------------NN
 | 17 | OTU domain-containing protein, putative                |
 | 18 | zinc finger, RAN binding protein, putative             |
 | 19 | DNA-directed RNA polymerase, alpha subunit, putative   |
+
+Как видно, наличие квадруплексов коррелирует преимущественно внутри рода, в целом же их довольно мало, а для многих представителей данных кластеров белков не нашлось вовсе. 

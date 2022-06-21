@@ -1,0 +1,66 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+```{r}
+install.packages("BiocManager")
+```
+
+
+```{r}
+BiocManager::install("pqsfinder")
+BiocManager::install("rtracklayer")
+BiocManager::install("Biostrings")
+BiocManager::install("BSgenome")
+library(pqsfinder)
+library(rtracklayer)
+library(Biostrings)
+library(BSgenome)
+```
+
+```{r}
+species <- list("babesia_bigemina", "babesia_bovis_T2Bo",
+              "babesia_microti_strain_RI", "babesia_ovata",
+              "babesia_sp._Xinjiang", "besnoitia_besnoiti",
+              "cryptosporidium_felis", "cryptosporidium_hominis_TU502",
+              "cryptosporidium_muris_RN66", "cryptosporidium_parvum_Iowa_II",
+              "cryptosporidium_ubiquitum", "eimeria_acervulina",
+              "eimeria_brunetti", "eimeria_maxima",
+              "eimeria_mitis", "eimeria_necatrix",
+              "eimeria_praecox", "eimeria_tenella",
+              "gregarina_niphandrodes", "neospora_caninum_Liverpool",
+              "plasmodium_berghei_ANKA", "plasmodium_chabaudi",
+              "plasmodium_coatneyi", "plasmodium_cynomolgi",
+              "plasmodium_falciparum", "plasmodium_fragile",
+              "plasmodium_gaboni", "plasmodium_gallinaceum",
+              "plasmodium_inui_San_Antonio_1", "plasmodium_knowlesi",
+              "plasmodium_malariae", "plasmodium_reichenowi",
+              "plasmodium_relictum", "plasmodium_sp._gorilla_clade_G2",
+              "plasmodium_vinckei", "plasmodium_vivax",
+              "plasmodium_yoelii", "porospora_cf._gigantea_A",
+              "porospora_cf._gigantea_B", "theileria_annulata",
+              "theileria_equi_strain_WA", "theileria_orientalis_strain_Shintoku",
+              "theileria_parva_strain_Muguga", "toxoplasma_gondii_ME49")
+for (i in species) {
+  path_to_fna <- paste("/home/leonid/PycharmProjects/python/minor_2022/project/supergroup/fna_files/", i, "_genomic.fna", sep="")
+  path_to_txt <- paste("/home/leonid/PycharmProjects/python/minor_2022/project/supergroup/fna_files_chr_lists/", i, "_chr_list.txt", sep="")
+  dna <- readDNAStringSet(path_to_fna)
+  chr_list <- read.table(file = path_to_txt)
+  for (j in 1:length(dna)) {
+    pqs <- pqsfinder(dna[[j]],run_min_len=3,loop_min_len=1,loop_max_len=7,max_defects=0)
+    results=pqs@ranges
+    results=as(pqs, "GRanges")
+    results=renameSeqlevels(results, chr_list[[1]][j])
+    name_for_bed <- paste(chr_list[[1]][j], "_q.bed", sep="")
+    export.bed(results,con=name_for_bed)
+    # name_for_meta <- paste(i, "_q.tsv", sep="")
+    # write.table(data.frame(results)[,-c(16,17)],name_for_meta,quote = F,row.names = F)
+  }
+        
+}  
+
+```
+
+
+
+

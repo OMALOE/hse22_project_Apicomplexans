@@ -112,7 +112,31 @@
 ![clusters](https://user-images.githubusercontent.com/60858323/174839838-b834b3a4-134f-46d0-a298-a8e6a5a0debf.jpg)
 
 
-<h3> Функции кластеров </h3> 
+<h3> Функции велков в кластерах </h3> 
+
+|    | function                                                                 |
+|---:|:-------------------------------------------------------------------------|
+|  0 | 40S ribosomal protein S7, putative                                       |
+|  1 | S-adenosylmethionine synthetase, putative                                |
+|  2 | acid phosphatase, putative                                               |
+|  3 | proliferating cell nuclear antigen 1, putative                           |
+|  4 | 60S ribosomal protein L5, putative                                       |
+|  5 | mRNA cleavage factor-like protein, putative                              |
+|  6 | SNF2 helicase, putative                                                  |
+|  7 | 14-3-3 protein, putative                                                 |
+|  8 | 26S proteasome regulatory subunit RPN1, putative                         |
+|  9 | RNA-binding protein, putative                                            |
+| 10 | glideosome associated protein with multiple membrane spans 3, putative   |
+| 11 | ATP-dependent RNA helicase UAP56, putative                               |
+| 12 | LCCL domain-containing protein                                           |
+| 13 | histone H2A, putative                                                    |
+| 14 | 60S ribosomal protein L34, putative                                      |
+| 15 | cytosolic Fe-S cluster assembly factor NBP35, putative                   |
+| 16 | Fe-S cluster assembly protein DRE2, putative                             |
+| 17 | pre-mRNA-splicing factor ATP-dependent RNA helicase PRP22, putative      |
+| 18 | glutamine--fructose-6-phosphate aminotransferase [isomerizing], putative |
+| 19 | ribonucleoside-diphosphate reductase small chain, putative               |
+| 20 | phosphatidylinositol 3- and 4-kinase, putative                           |
 
 <h3> Визуализация расположение участков Z-DNA относительно генов </h3> 
 

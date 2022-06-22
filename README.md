@@ -1,6 +1,8 @@
 # Apicomplexans
 <h3> Участники </h3>
 
+**Внимание!!!** Данный .md файл получился очень большим, поэтому при попытке просто посмотреть его из репозитория, он будет отображаться не полностью. Чтобы увидеть отчёт в полном объёме, можно либо открыть этот файл отдельно, либо пройти по [ссылке](https://github.com/OMALOE/hse22_project_Apicomplexans/blob/main/README.md).
+
 | Участник  | Род | Git | 
 |---|---|---|
 | Архипов Дмитрий  |Eimeria (mitis, praecox, maxima, acervulina, necatrix) | https://github.com/OMALOE/hse22_project_bioinf |

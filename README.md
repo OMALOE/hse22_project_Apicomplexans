@@ -146,6 +146,7 @@
 
 
 * Для кластера 10
+
 ![clusters (2)](https://user-images.githubusercontent.com/60858323/175046093-172b1062-c700-4e1a-94f2-cb14dbe3ae3e.jpg)
 
 

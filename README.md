@@ -9396,4 +9396,12 @@ TT--------T---------------------------------------------------------------------
 
 Как видно, наличие квадруплексов коррелирует преимущественно внутри рода, в целом же их довольно мало, а для многих представителей данных кластеров белков не нашлось вовсе. 
 
+Визуализация для первого кластера (ubiquinone biosynthesis protein COQ4, putative):
+
+![cluster1](https://user-images.githubusercontent.com/60808642/175067247-9ddd3c64-2ded-44e0-bd98-0c2fee83af39.png)
+
+Визуализация для второго кластера (exosome complex component CSL4, putative):
+
+![cluster2](https://user-images.githubusercontent.com/60808642/175067371-f3e1202e-f12f-47e5-a49d-4b22510b018f.png)
+
 

@@ -9371,26 +9371,26 @@ TT--------T---------------------------------------------------------------------
 
 |  Номер кластера | Функция                                               |
 |---:|:-------------------------------------------------------|
-|  0 | conserved protein, unknown function                    |
-|  1 | hypothetical protein, conserved                        |
-|  2 | ubiquinone biosynthesis protein COQ4, putative         |
-|  3 | EH protein, putative                                   |
+|  0 | ubiquinone biosynthesis protein COQ4, putative         |
+|  1 | exosome complex component CSL4, putative               |
+|  2 | cysteine-rich PDZ-binding protein, putative            |
+|  3 | DNA-directed RNA polymerase III subunit RPC8, putative |
 |  4 | hypothetical protein, conserved                        |
-|  5 | exosome complex component CSL4, putative               |
-|  6 | cysteine-rich PDZ-binding protein, putative            |
-|  7 | DNA-directed RNA polymerase III subunit RPC8, putative |
-|  8 | RNA-binding protein, putative                          |
-|  9 | cell division cycle protein 20 homolog, putative       |
-| 10 | hypothetical protein, conserved                        |
-| 11 | transcription factor with AP2 domain(s), putative      |
-| 12 | conserved Plasmodium protein, unknown function         |
-| 13 | hypothetical protein, conserved                        |
-| 14 | mitochondrial fission 1 protein, putative              |
-| 15 | 4-nitrophenylphosphatase, putative                     |
-| 16 | mRNA methyltransferase, putative                       |
-| 17 | OTU domain-containing protein, putative                |
-| 18 | zinc finger, RAN binding protein, putative             |
-| 19 | DNA-directed RNA polymerase, alpha subunit, putative   |
+|  5 | mitochondrial fission 1 protein, putative              |
+|  6 | zinc finger, RAN binding protein, putative             |
+|  7 | DNA-directed RNA polymerase, alpha subunit, putative   |
+|  8 | cytochrome c oxidase assembly protein COX19, putative  |
+|  9 | flap endonuclease 1                                    |
+| 10 | DNA-directed RNA polymerase III subunit RPC6, putative |
+| 11 | phosphoglycerate mutase, putative                      |
+| 12 | hypothetical protein, conserved                        |
+| 13 | trophozoite exported protein 1, putative               |
+| 14 | protein archease, putative                             |
+| 15 | oxysterol-binding protein, putative                    |
+| 16 | phosphoacetylglucosamine mutase, putative              |
+| 17 | kinetochore protein NDC80, putative                    |
+| 18 | small subunit rRNA processing factor, putative         |
+| 19 | TPR domain-containing protein, putative                |
 
 Как видно, наличие квадруплексов коррелирует преимущественно внутри рода, в целом же их довольно мало, а для многих представителей данных кластеров белков не нашлось вовсе. 
 
